@@ -2,7 +2,7 @@
 
 Welcome to _Onlyrics_, the only place on the planet where your ears won't be disappointed!
 
-Last Month's Favorites
+##Last Month's Favorites
 
 ### [Arctic Monkeys](/writer/arctic_monkeys.md) | 
 
