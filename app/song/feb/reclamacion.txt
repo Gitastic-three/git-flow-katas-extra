@@ -1,0 +1,46 @@
+[08:50:37 AM] Me:Buenos dias, tengo un fraude que me hicieron en Claro y yo envie el requerimiento y ellos dijeron que no era fraude y que me seguian cobrando
+[08:50:41 AM] MARIA TERESA:Buenos días, Señora Natalia, por motivos de calidad y seguridad en la información, esta interacción será grabada y monitoreada. Mi propósito es orientarle en los trámites que se pueden realizar ante la Entidad. Mi nombre es María Pachón ¿En qué le puedo colaborar?
+[08:51:01 AM] Me:y me envian la grabacion en donde la persona que me hace el fraude dice si, pero esa no es mi voz
+[08:51:47 AM] MARIA TERESA:Señora Natalia ¿Qué le sucedió? ¿cuál es el fraude que usted señala?
+[08:52:22 AM] Me:tomaron mis datos y sacaron un plan de television en claro
+[08:53:42 AM] MARIA TERESA:Señora Natalia ¿Cuál es su pretensión? 
+[08:54:14 AM] Me:Mi idea es denunciar el fraude y que me quiten esa deuda
+[08:56:07 AM] MARIA TERESA:Comprendo Señora Natalia, permítame  de uno a dos minutos en línea mientras verifico la información y ya regreso con usted.
+[08:56:17 AM] Me:de acuerdo, continuo en linea
+[08:57:32 AM] MARIA TERESA:Gracias por su espera en línea Señora Natalia, ¿Qué operador es?
+[08:57:58 AM] Me:de celular?
+[08:58:01 AM] Me:yo soy Tigo
+[08:58:57 AM] MARIA TERESA:Señora Natalia, el operador con el cual adquirieron el servicio de televisión a su nombre, ¿Qué operador es?
+[08:59:16 AM] Me:El operador del fraude fue la empresa Claro
+[09:01:32 AM] MARIA TERESA:Comprendo señora Natalia, ¿Usted ya verificó si  se encuentra reportada en centrales de riesgo? ¿Cómo se enteró del plan de televisión que adquirieron a su nombre?
+[09:01:49 AM] Me:Si estoy reportada
+[09:02:01 AM] Me:me entere porque siempre que voy a sacar credito me lo niegan
+[09:02:12 AM] Me:la ultima vez fui a avvillas y me dijeron que tenia una deuda en claro
+[09:02:23 AM] Me:que no dejaba que ellos me aprobaran nada
+[09:02:49 AM] MARIA TERESA:Entiendo, Señora Natalia, en la actualidad la SIC tiene una alternativa de mediación llamada SIC Facilita, es una herramienta virtual por medio de un chat que le permite realizar su proceso de manera fácil y rápida, actuando como facilitadora para que consumidores y operadores alcancen acuerdos sobre reclamaciones relacionados con reportes erróneos ante las Centrales de Riesgo (Teniendo en cuenta que la única pretensión es la "Eliminación del Reporte Negativo).
+[09:03:01 AM] MARIA TERESA:En esta interacción participará usted como consumidor, junto a un representante del operador y un abogado de la SIC quien actúa como mediador entre las dos partes.
+[09:03:11 AM] MARIA TERESA:Para hacer uso de esta herramienta, es necesario que haya realizado la denuncia ante la Fiscalía por el delito de suplantación personal, así mismo la reclamación formal ante el operador y que a su vez le emitan una respuesta desfavorable, o que transcurridos los 15 días hábiles no reciba respuesta.
+[09:03:27 AM] MARIA TERESA:Adicional a esto, si usted cuenta con el formato de firmas y huellas diligenciado ante el operador puede adjuntarlo
+[09:03:35 AM] MARIA TERESA:Tenga en cuenta que durante el proceso se pueden presentar 3 situaciones:
+[09:03:47 AM] MARIA TERESA:1. Antes de la fecha de mediación, el operador puede aceptar su pretensión llegando a un acuerdo previo; es decir dando solución al inconveniente que usted presenta.
+[09:03:59 AM] MARIA TERESA:2. Al finalizar el chat de mediación y de llegar a un acuerdo con el proveedor se generará un documento fijando los compromisos pactados o acordados dentro de la mediación.
+[09:04:09 AM] MARIA TERESA:3. En el caso en que usted y el proveedor no lleguen a un acuerdo, se generará una constancia de la mediación y debe continuar con la Denuncia Habeas Data Ley 1266 de 2008, la cual debe presentar ante la SIC http://bitly.ws/9ACW
+[09:04:31 AM] MARIA TERESA:Para acceder a la plataforma SICFacilita usted puede ingresar por medio del siguiente enlace: http://bitly.ws/9ACL solo debe seleccionar portal del consumidor, realizar el registro, a su correo le llegará una contraseña con la que podrá ingresar y radicar la reclamación en contra de la a través del módulo Garantías, inmediatamente el sistema generará un radicado interno, con el cual se identificará su proceso y podrá hacer seguimiento.
+[09:05:01 AM] MARIA TERESA:En el siguiente enlace puede encontrar el manual detallado para diligenciar su requerimiento:  http://bitly.ws/9ACI
+[09:05:20 AM] MARIA TERESA:Señora Natalia, de acuerdo con la información brindada hasta el momento ¿Tiene alguna inquietud?
+
+
+[09:15:48 AM] MARIA TERESA:Lo anterior teniendo en cuenta que usted esta reportada en centrales de riesgo.
+[09:15:55 AM] MARIA TERESA:Para la Denuncia de Habeas Data debe realizar lo siguiente:
+[09:16:11 AM] MARIA TERESA:a.) Inicialmente usted debe radicar ante la Fiscalía General de la Nación una denuncia por el delito de suplantación personal.
+
+[09:16:19 AM] MARIA TERESA:b) Debe realizar la reclamación formal ante la empresa con la que presenta el inconveniente, la cual tiene 15 días hábiles para brindarle una respuesta, si esta es desfavorable o no le emiten respuesta, puede radicar la Denuncia ante la SIC.
+[09:16:35 AM] MARIA TERESA:c.) Dentro de la Denuncia usted debe anexar la documentación anterior, exponer detalladamente el inconveniente presentado y sus pretensiones específicas.
+
+
+[09:16:45 AM] MARIA TERESA:Para radicar la denuncia de Habeas Data usted lo puede realizar por cualquiera de los siguientes canales de recepción:
+[09:17:11 AM] MARIA TERESA:1. Por medio de la página web de la SIC https://servicioslinea.sic.gov.co/servilinea/ServiLinea/Portada.php si usted no tiene usuario, debe ingresar por la opción "Regístrese" y diligenciar la información solicitada.
+[09:17:15 AM] MARIA TERESA:Cuando realice el procedimiento anterior encontrará el menú principal y debe ingresar por la     opción "Protección de Datos Personales" y selecciona "Problema con su historia de crédito o     con su información personal"
+[09:17:29 AM] MARIA TERESA:2. También puede radicar en físico en cualquiera de los puntos de atención de la SIC https://www.sic.gov.co/ubicacion-geografica actualmente los puntos de atención no tienen servicio.
+[09:17:37 AM] MARIA TERESA:Recuerde hacer seguimiento a su trámite por los diferentes canales de atención de la SIC, por lo menos una o dos veces por semana. https://www.sic.gov.co/atenci%C3%B3n-al-ciudadano/canales-de-atenci%C3%B3n
+658849398
